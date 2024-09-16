@@ -1,0 +1,3 @@
+pada function upload avatar, lakukan limit size gambar, dan lakukan perubahan struktur folder
+
+upload image campaign harus diset berapa jumlah maxnya berapa.
